@@ -287,9 +287,14 @@
 	{
 	 "name": "02.Movies",
 	 "channels": [
-		{
+        {
           "name": "HBO",
           "stream_url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
+        },
+        {
+          "name": "HBO 2",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd"
         },
         {
           "name": "HBO Cinemax",
