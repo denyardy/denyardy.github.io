@@ -288,36 +288,6 @@
 	 "name": "02.Movies",
 	 "channels": [
 		{
-          "name": "Fox Action Movies",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd"
-        },
-        {
-          "name": "Fox Channel",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd"
-        },
-        {
-          "name": "Fox Crime",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd"
-        },
-        {
-          "name": "Fox Life",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd"
-        },
-		{
-          "name": "Fox Family Movies",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd"
-        },
-		{
-          "name": "Fox Movies Premium",
-          "drm_id": "indihome",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd"
-        },
-		{
           "name": "HBO",
           "stream_url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
         },
